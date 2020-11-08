@@ -1,0 +1,33 @@
+
+T1BF4 000:401 SEGGER J-Link V4.98b Log File (0000ms, 0260ms total)
+T1BF4 000:401 DLL Compiled: Apr 10 2015 20:15:52 (0000ms, 0260ms total)
+T1BF4 000:401 Logging started @ 2019-03-10 13:45 (0000ms, 0260ms total)
+T1BF4 000:401 JLINK_SetWarnOutHandler(...) (0000ms, 0260ms total)
+T1BF4 000:401 JLINK_OpenEx(...)
+Firmware: J-Link ARM V8 compiled Jan 31 2018 18:34:52
+Hardware: V8.00
+S/N: 20080643
+Feature(s): RDI,FlashDL,FlashBP,JFlash,GDBFull  returns O.K. (0259ms, 0519ms total)
+T1BF4 000:660 JLINK_SetErrorOutHandler(...) (0000ms, 0519ms total)
+T1BF4 000:660 JLINK_ExecCommand("ProjectFile = "D:\Individual Documents\My Programmes\STM32F405RGT6(Iris)\USER\JLinkSettings.ini"", ...)Device "CORTEX-M4" selected.  returns 0x00 (0000ms, 0519ms total)
+T1BF4 000:660 JLINK_ExecCommand("Device = STM32F405RGTx", ...)Device "CORTEX-M4" selected.  returns 0x00 (0000ms, 0519ms total)
+T1BF4 000:660 JLINK_ExecCommand("DisableConnectionTimeout", ...)  returns 0x01 (0000ms, 0519ms total)
+T1BF4 000:660 JLINK_GetHardwareVersion()  returns 0x13880 (0000ms, 0519ms total)
+T1BF4 000:660 JLINK_GetDLLVersion()  returns 49802 (0000ms, 0519ms total)
+T1BF4 000:660 JLINK_GetFirmwareString(...) (0000ms, 0519ms total)
+T1BF4 000:660 JLINK_GetDLLVersion()  returns 49802 (0000ms, 0519ms total)
+T1BF4 000:660 JLINK_GetCompileDateTime() (0000ms, 0519ms total)
+T1BF4 000:660 JLINK_GetFirmwareString(...) (0000ms, 0519ms total)
+T1BF4 000:660 JLINK_GetHardwareVersion()  returns 0x13880 (0000ms, 0519ms total)
+T1BF4 000:660 JLINK_TIF_Select(JLINKARM_TIF_SWD)  returns 0x00 (0001ms, 0520ms total)
+T1BF4 000:661 JLINK_SetSpeed(25000) (0000ms, 0520ms total)
+T1BF4 000:661 JLINK_GetId() >0x108 TIF> >0x108 TIF>Found SWD-DP with ID 0x2BA01477 >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x0D TIF>
+                JLINK_EMU_HasCapEx(0x0000002C)  returns 0x00 (0000ms, 0000ms total)
+                returns 0x00000000 (0103ms, 0623ms total)
+T1BF4 000:764 JLINK_GetId() >0x108 TIF> >0x108 TIF>Found SWD-DP with ID 0x2BA01477 >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x0D TIF>
+                JLINK_EMU_HasCapEx(0x0000002C)  returns 0x00 (0000ms, 0000ms total)
+                returns 0x00000000 (0105ms, 0728ms total)
+T1BF4 000:873 JLINK_GetFirmwareString(...) (0000ms, 0728ms total)
+T1BF4 001:842 JLINK_Close() (0000ms, 0728ms total)
+T1BF4 001:842  (0000ms, 0728ms total)
+T1BF4 001:842 Closed (0000ms, 0728ms total)
